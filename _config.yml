@@ -1,6 +1,11 @@
+host: 127.0.0.1
+port: 4020
 baseurl: ""
 permalink: pretty
 markdown: rdiscount
+sass:
+    sass_dir: _sass
+    style: :compressed
 prose:
   rooturl: '/'
   siteurl: 'http://prose.github.io/starter/'
