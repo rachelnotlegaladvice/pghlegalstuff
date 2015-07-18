@@ -1,4 +1,4 @@
-# Choose from: darkly, flatly, cosmo, cyborg, lumen, journal, paper, readable, simplex, slate, spacelab, superhero, united, yeti
+# Choose from: sandstone, darkly, flatly, cosmo, cyborg, lumen, journal, paper, readable, simplex, slate, spacelab, superhero, united, yeti
 # see https://bootswatch.com/ for previews
-bootswatch-theme: darkly
-navbar-theme: inverse # default OR inverse
+bootswatch-theme: sandstone
+navbar-theme: default # default OR inverse
