@@ -8,8 +8,8 @@ sass:
     style: :compressed
 prose:
   rooturl: '_posts/'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'https://bmlp.org/static-starter/'
+  relativeLinks: 'https://bmlp.org/static-starter/links.jsonp'
   media: 'media'
   metadata:
     _posts/faqs:
