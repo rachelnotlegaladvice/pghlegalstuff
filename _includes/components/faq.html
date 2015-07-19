@@ -4,7 +4,7 @@
   {% for faq in sortedfaqs %}
       {% assign loopindex = forloop.index | modulo: 2 %}
       {% if loopindex == 1 %}
-        <div class="technology row">
+        <div class="row">
           <div class="col-md-6 text-align-left" >
             <div>
                <h4>{{faq.title}}</h5>
@@ -13,10 +13,10 @@
           </div>
       {% else %}
          <div class="col-md-6 text-align-left">
-            <li>
+              <div>
                <h5>{{faq.title}}</h5>
               <p>{{faq.content}}</p>
-            </li>
+            </div>
           </div>
         </div>
       {% endif %}
