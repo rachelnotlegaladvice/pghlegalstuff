@@ -10,6 +10,8 @@ CACHE:
 css/main.css
 js/main.js
 /index.html
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js
 
 NETWORK:
 https://*

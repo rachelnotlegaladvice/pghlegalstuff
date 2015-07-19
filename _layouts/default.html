@@ -2,12 +2,13 @@
 title: 'This is my Site Title'
 ---
 <!DOCTYPE html>
-<html>
+<html lang="en" manifest="/manifest.appcache">
 {% include common/head.html %}
 <body data-spy="scroll" data-target="#main-navigation">
   {% include common/navigation.html %}
     {{content}}
   </div>
+  <div id="back-to-top"><a href="#home"<span class="fa fa-lg fa-arrow-up"></span></a></div>
   {% include common/footer.html %}
   {% include common/scripts.html %}
 </body>

@@ -35,3 +35,15 @@ footer {
       color: $body-bg;
   }
 }
+#back-to-top{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: $text-color;
+  opacity: .8;
+  padding: 1em;
+  a {
+    color: $body-bg;
+    text-decoration: none;
+  }
+}
