@@ -1,10 +1,10 @@
 'use strict';
 
 $(document).ready(function(){
-     $(".section-item").height($(window).height());
-         $(window).resize(function(){
-             $(".section-item").height($(window).height());
-     });
+    //  $(".section-item").height(($(window).height() > $(".section-item").height ? $(window).height() : 'auto'));
+    //      $(window).resize(function(){
+    //          $(".section-item").height($(window).height());
+    //  });
      $('.navbar-collapse .nav a').on('click', function(){
         $(".navbar-collapse").collapse('hide'); //bootstrap 3.x by Richard
       });
