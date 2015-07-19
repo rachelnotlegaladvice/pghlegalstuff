@@ -1,3 +1,9 @@
+home:
+  menu: Home
+  title: Black Lives Matter in Cleveland
+  leadin: >
+    And so do our civil rights.
+
 about:
   title: About This Project
   menu: About
@@ -24,6 +30,6 @@ volunteer:
 
 resources:
   title: Legal & Support resources
-  menu: resources
+  menu: Resources
   leadin: >
     Learn more about your legal rights

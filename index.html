@@ -2,14 +2,23 @@
 layout: default
 section: home
 ---
-<div class="container-fluid">
+<div>
   {% for section in site.data.sections %}
-  {% assign sectionitem = section[1] %}
-  <section id="{{section[0]}}" class="section-item">
+    {% assign sectionkey = section[0] %}
+    {% assign sectionitem = section[1] %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  <section id="{{section[0]}}" class="section-item{% if thecycle == 'odd' %} section-alt{% endif %}">
+    <div class="container-fluid">
+    {% if sectionitem.title %}
     <div class="page-title text-center">
       <h2>{{sectionitem.title}}</h2>
-      <p class="lead">{{sectionitem.leadin}}</p>
+      <div class="lead"><p>{{sectionitem.leadin}}</p></div>
     </div>
+    {% endif %}
+    <div class="section-content container">
+      {% include  sections/{{sectionkey}}.html %}
+    </div>
+  </div>
   </section>
   {% endfor %}
 </div>

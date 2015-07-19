@@ -3,7 +3,7 @@
 <nav class="navbar navbar-{{nav-style}} navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -11,7 +11,7 @@
           </button>
           <a class="navbar-brand" href="#">{{site.data.texts.title}}</a>
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
+        <div id="main-navigation" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             {% for section in site.data.sections %}
             <li><a href="#{{section[0]}}">{{section[1].menu}}</a></li>

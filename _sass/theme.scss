@@ -1,3 +1,37 @@
 section.section-item {
+    .page-title {
+      h2 {
+        font-size: $font-size-h1 + 8;
+      }
+    }
     padding: 10em 0em;
+    color: inherit;
+    &.section-alt {
+      background-color: $table-bg-accent;
+    }
+    &#home {
+      background:{
+        image: url("http://api.ning.com/files/vZjCFErHAhyiYGmQGCBVCSLcvbGptMiQ5gwzUex8N-yjJ*xcHkceXMc9OHvhkucjXIyqer5PcBOfrQRnnUIe*kmp0OLiwh5z/Banner_10470725_10155768458885615_3215992410398021717_n_resized.jpg");
+        size: cover;
+        position: center center;
+        attachment: fixed;
+      }
+      .page-title {
+        padding: 60px;
+        background-color: darken($text-color, 20%);
+        opacity: .9;
+        color: lighten($text-color, 80%);
+        h2 {
+          color: lighten($text-color, 80%)
+        }
+      }
+    }
+}
+footer {
+  padding:4em 0;
+  background-color: $text-color;
+  color: $body-bg;
+  a, h1, h2, h3, h4 {
+      color: $body-bg;
+  }
 }

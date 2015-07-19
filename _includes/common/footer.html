@@ -1,0 +1,18 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h3>Navigation</h3>
+        <ul class="nav">
+          {% for section in site.data.sections %}
+          <li><a href="#{{section[0]}}">{{section[1].menu}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+      </div>
+      <div class="col-md-4">
+      </div>
+    </div>
+  </div>
+</footer>
