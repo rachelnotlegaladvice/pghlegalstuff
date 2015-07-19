@@ -1,10 +1,6 @@
-<nav class="navbar
-{% if site.data.config.navbar-theme %}
-navbar-{{site.data.config.navbar-theme}}
-{% else %}
-navbar-default
-{% endif %}
-navbar-fixed-top">
+{% assign nav-style = site.data.config.navbar-theme || 'default'  %}
+{% assign nav-behavior = site.data.config.navbar-behavior || 'static-top' %}
+<nav class="navbar navbar-{{nav-style}} navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -17,10 +13,9 @@ navbar-fixed-top">
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#contact">Your Rights</a></li>
+            {% for section in site.data.sections %}
+            <li><a href="#{{section[0]}}">{{section[1].menu}}</a></li>
+            {% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
       </div>

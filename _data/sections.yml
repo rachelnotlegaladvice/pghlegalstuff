@@ -1,0 +1,29 @@
+about:
+  title: About This Project
+  menu: About
+  leadin: >
+    Learn more about this project
+
+kyr:
+  title: Know Your Rights
+  menu: Your Rights
+  leadin: >
+    Your basics when it comes to protesting in BLANK city
+
+jail-support:
+  title: Jail Support
+  menu: Jail Support
+  leadin: >
+    Is a friend or loved one in jail? Contact our jail support volunteers to help find them and make sure they are safe
+
+volunteer:
+  title: How to Help
+  menu: Help Out
+  leadin: >
+    You can help out by becoming a Legal Observer or a Jail Support Volunteer.
+
+resources:
+  title: Legal & Support resources
+  menu: resources
+  leadin: >
+    Learn more about your legal rights

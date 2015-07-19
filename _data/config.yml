@@ -2,3 +2,4 @@
 # see https://bootswatch.com/ for previews
 bootswatch-theme: sandstone
 navbar-theme: default # default OR inverse
+navbar-behavior: static-top
