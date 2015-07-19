@@ -1,6 +1,6 @@
 host: 127.0.0.1
 port: 4020
-baseurl: ""
+baseurl: "static-starter/"
 permalink: pretty
 markdown: rdiscount
 sass:
