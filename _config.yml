@@ -7,7 +7,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 prose:
-  rooturl: '/'
+  rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
