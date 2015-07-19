@@ -33,15 +33,15 @@
 @import "{{vendorpath}}input-groups";
 @import "{{vendorpath}}navs";
 @import "{{vendorpath}}navbar";
-@import "{{vendorpath}}breadcrumbs";
-@import "{{vendorpath}}pagination";
+// @import "{{vendorpath}}breadcrumbs";
+// @import "{{vendorpath}}pagination";
 @import "{{vendorpath}}pager";
 @import "{{vendorpath}}labels";
 @import "{{vendorpath}}badges";
-@import "{{vendorpath}}jumbotron";
+// @import "{{vendorpath}}jumbotron";
 @import "{{vendorpath}}thumbnails";
 @import "{{vendorpath}}alerts";
-@import "{{vendorpath}}progress-bars";
+// @import "{{vendorpath}}progress-bars";
 @import "{{vendorpath}}media";
 @import "{{vendorpath}}list-group";
 @import "{{vendorpath}}panels";
@@ -50,10 +50,10 @@
 @import "{{vendorpath}}close";
 
 // Components w/ JavaScript
-@import "{{vendorpath}}modals";
-@import "{{vendorpath}}tooltip";
+// @import "{{vendorpath}}modals";
+// @import "{{vendorpath}}tooltip";
 @import "{{vendorpath}}popovers";
-@import "{{vendorpath}}carousel";
+// @import "{{vendorpath}}carousel";
 
 // Utility classes
 @import "{{vendorpath}}utilities";

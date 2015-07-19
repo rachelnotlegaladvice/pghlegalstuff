@@ -1,5 +1,5 @@
 # Choose from: sandstone, darkly, flatly, cosmo, cyborg, lumen, journal, paper, readable, simplex, slate, spacelab, superhero, united, yeti
 # see https://bootswatch.com/ for previews
-bootswatch-theme: lumen
+bootswatch-theme: darkly
 navbar-theme: inverse # default OR inverse
 navbar-behavior: static-top
