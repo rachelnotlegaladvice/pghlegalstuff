@@ -8,11 +8,8 @@ CACHE MANIFEST
 
 CACHE:
 css/main.css
-{% for page in site.pages %}{% if page.url != '/manifest.appcache' %}{{ page.url }}{% endif %}
-{% endfor %}
-{% for item in site.images %}{{ item.url }}
-{% endfor %}
+js/main.js
+/index.html
 
 NETWORK:
-*
 https://*
