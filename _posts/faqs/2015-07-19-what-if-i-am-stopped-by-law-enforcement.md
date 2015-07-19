@@ -1,9 +1,10 @@
 ---
 category: faq
-published: false
+published: true
 title: "What if I am stopped by law enforcement?"
 faqtype: kyr
 ---
+
 
 - Stay calm and ask if you are being detained.
 - If the answer is no, you are free to leave.
