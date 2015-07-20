@@ -47,3 +47,20 @@ footer {
     text-decoration: none;
   }
 }
+
+form {
+  @extend .form-horizontal;
+  .form-item {
+    @extend .form-group;
+    label {
+      color: $text-color;
+      @extend .control-label;
+    }
+  }
+  input[type="text"], textarea, select {
+      @extend .form-control;
+  }
+  input[type="submit"]{
+    @extend .btn;
+  }
+}

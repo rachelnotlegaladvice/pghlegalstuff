@@ -7,7 +7,7 @@ section: home
     {% assign sectionkey = section[0] %}
     {% assign sectionitem = section[1] %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-  <section id="{{section[0]}}" class="section-item{% if thecycle == 'odd' %} section-alt{% endif %}">
+  <section id="{{sectionkey}}" class="section-item{% if thecycle == 'odd' %} section-alt{% endif %}">
     <div class="container-fluid">
     {% if sectionitem.title %}
     <div class="page-title text-center">

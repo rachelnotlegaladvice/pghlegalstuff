@@ -1,14 +1,8 @@
 home:
   menu: Home
-  title: Black Lives Matter in Cleveland
+  title: Louisville Movement-Law
   leadin: >
-    And so do our civil rights.
-
-about:
-  title: About This Project
-  menu: About
-  leadin: >
-    Learn more about this project
+    Resources for movement Jail Support and protecting people on the front lines
 
 kyr:
   title: Know Your Rights
@@ -33,3 +27,7 @@ resources:
   menu: Resources
   leadin: >
     Learn more about your legal rights
+
+contact:
+  title: Contact Us
+  menu: Contact
