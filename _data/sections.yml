@@ -3,24 +3,32 @@ home:
   title: Louisville Movement-Law
   leadin: >
     Resources for movement Jail Support and protecting people on the front lines
+  photo: bree.jpg
+  template: home.html
 
 kyr:
   title: Know Your Rights
   menu: Your Rights
+  template: kyr.html
   leadin: >
     Your basics when it comes to protesting in BLANK city
 
 jail-support:
   title: Jail Support
   menu: Jail Support
+  template: jail-support
   leadin: >
-    Is a friend or loved one in jail? Contact our jail support volunteers to help find them and make sure they are safe
+    Is a friend or loved one in jail? Contact our jail support volunteers to
+    help find them and make sure they are safe
 
 volunteer:
   title: How to Help
   menu: Help Out
+  template: default
   leadin: >
     You can help out by becoming a Legal Observer or a Jail Support Volunteer.
+  text:  >
+    This is the default text
 
 resources:
   title: Legal & Support Resources
