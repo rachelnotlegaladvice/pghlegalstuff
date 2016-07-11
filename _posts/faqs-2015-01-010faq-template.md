@@ -1,7 +1,7 @@
 ---
 title: Where can I find information on XYZ?
 category: faq
-faqtype: resources
+faqtype: jail-support
 published: true
 ---
 
