@@ -4,4 +4,10 @@
     <h3><a href="tel:{{site.data.texts.jail-support.number}}">{{site.data.texts.jail-support.number}}</a></h3>
     <p>{{site.data.texts.jail-support.help}}</p>
   </div>
+  <div class="col-md-12 text-center">
+  <h3>FAQ</h3>
+  {% include components/faq.html site='site' type='kyr' display='grid' %}
+  <h3>Helpful Resources</h3>
+  {% include components/resources.html site='site' type='kyr' display='grid'%}
+  </div>
 </div>
