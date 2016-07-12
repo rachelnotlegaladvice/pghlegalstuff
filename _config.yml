@@ -11,6 +11,7 @@ prose:
     ".gitignore",
     "blog.rss",
     "Gemfile",
+    "Gemfile.lock",
     "index.html",
     "LICENCE.md",
     "links.jsonp",
