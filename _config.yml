@@ -47,7 +47,44 @@ prose:
           options:
             - name: Know Your Rights
               value: kyr
-            - name: Legal Observation
-              value: legal-observers
+            - name: Post Release
+              value: post-release
             - name: Jail Support
               value: jail-support
+            - name: Donate
+              value: donate
+    _posts/resources:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "resource"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "resourcetype"
+        field:
+          element: "select"
+          label: "FAQ Section"
+          options:
+            - name: Know Your Rights
+              value: kyr
+            - name: Post Release
+              value: post-release
+            - name: Jail Support
+              value: jail-support
+            - name: Donate
+              value: donate
+    _posts/updates:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "update"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "resourcetype"
+        field:
+          element: "checkbox"
+          label: "Is an Alert"
