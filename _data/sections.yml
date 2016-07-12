@@ -14,6 +14,14 @@ jail-support:
     Is a friend or loved one in jail? Contact our jail support volunteers to
     help find them and make sure they are safe
 
+post-release:
+  title: I've been released and need guidance/support
+  menu: "Post Release"
+  leadin: >
+    We can help you with your legal case after release
+  text:  >
+    We have teams of volunteers
+
 donate:
   title: Donate
   menu: Donate
@@ -22,14 +30,6 @@ donate:
     Donate to the Bail Fund & Jail Support
   text:  >
     This is the default text
-
-post-release:
-  title: I've been released and need guidance/support
-  menu: "Post Release"
-  leadin: >
-    We can help you with your legal case after release
-  text:  >
-    We have teams of volunteers
 
 kyr:
   title: Know Your Rights
