@@ -1,6 +1,6 @@
 ---
-title: Search for stuff
-category: resources
+title: Legal Update
+category: updates
 resourcetype: kyr
 link: http://google.com
 published: true

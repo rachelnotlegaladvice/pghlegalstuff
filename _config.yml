@@ -35,7 +35,7 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "faq"
+          value: "faqs"
       - name: "title"
         field:
           element: "text"
@@ -57,7 +57,7 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "resource"
+          value: "resources"
       - name: "title"
         field:
           element: "text"
@@ -79,7 +79,7 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "update"
+          value: "updates"
       - name: "title"
         field:
           element: "text"
