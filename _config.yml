@@ -7,7 +7,16 @@ sass:
     style: :compressed
 prose:
   ignore: [
-    '*.*'
+    "*.*",
+    "Gemfile",
+    "_includes",
+    "_layouts",
+    "_site",
+    "_sass",
+    "css",
+    "js",
+    "stylesheets",
+    "vendor"
     ]
   siteurl: 'https://bmlp.org/static-starter/'
   relativeLinks: 'https://bmlp.org/static-starter/links.jsonp'
