@@ -6,13 +6,6 @@ home:
   photo: bree.jpg
   template: home.html
 
-kyr:
-  title: Know Your Rights
-  menu: Your Rights
-  template: kyr.html
-  leadin: >
-    Your basics when it comes to protesting in BLANK city
-
 jail-support:
   title: Jail Support
   menu: Jail Support
@@ -21,21 +14,37 @@ jail-support:
     Is a friend or loved one in jail? Contact our jail support volunteers to
     help find them and make sure they are safe
 
-volunteer:
-  title: How to Help
-  menu: Help Out
+donate:
+  title: Donate
+  menu: Donate
   template: default
   leadin: >
-    You can help out by becoming a Legal Observer or a Jail Support Volunteer.
+    Donate to the Bail Fund & Jail Support
   text:  >
     This is the default text
 
-resources:
-  title: Legal & Support Resources
-  menu: Resources
+post-release:
+  title: I've been released and need guidance/support
+  menu: "Post Release"
   leadin: >
-    Learn more about your legal rights
+    We can help you with your legal case after release
+  text:  >
+    We have teams of volunteers
 
-contact:
-  title: Contact Us
-  menu: Contact
+kyr:
+  title: Know Your Rights
+  menu: Your Rights
+  template: kyr.html
+  leadin: >
+    Your basics when it comes to protesting in Cleveland
+
+updates:
+  title: Updates
+  menu: Updates
+  template: kyr.html
+  leadin: >
+    Updates about
+
+# contact:
+#   title: Contact Us
+#   menu: Contact

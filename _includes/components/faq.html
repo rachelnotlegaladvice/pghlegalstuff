@@ -1,4 +1,7 @@
 {% assign faqs = site.categories.faq | where: "faqtype", include.type %}
+{% if faqs[0] %}
+<h2 class="text-center">Frequently Asked Questions</h2>
+{% endif %}
 {% if include.display == 'grid' %}
 {% assign sortedfaqs = faqs | sort:"date"  %}
   {% for faq in sortedfaqs %}

@@ -1,21 +1,31 @@
-{% assign resources = site.categories.resources | where: "faqtype", include.type %}
-  {% for resource in resources %}
-      {% assign loopindex = forloop.index | modulo: 2 %}
-      {% if loopindex == 1 %}
-        <div class="row">
-          <div class="col-md-6 text-align-left" >
-            <div>
-               <h4>{{resource.title}}</h5>
-              <p>{{resource.content}}</p>
-            </div>
-          </div>
-      {% else %}
-         <div class="col-md-6 text-align-left">
-              <div>
-               <h4>{{resource.title}}</h4>
-              <p>{{resource.content}}</p>
-            </div>
+{% assign resources = site.categories.resources | where: "resourcetype", include.type %}
+{% if resources[0] %}
+<h2 class="text-center">Resources</h2>
+{% endif %}
+{% for resource in resources %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 1 %}
+      <div class="row">
+        <div class="col-md-4 text-center">
+          <div class="text-center">
+             <a target="_blank" href={{resource.link}}><h4>{{resource.title}}</h5></a>
+            <p>{{resource.content}}</p>
           </div>
         </div>
-      {% endif %}
-  {% endfor %}
+    {% else if loopindex == 2 %}
+        <div class="col-md-4" >
+          <div class="text-center">
+             <a target="_blank" href={{resource.link}}><h4>{{resource.title}}</h5></a>
+            <p>{{resource.content}}</p>
+          </div>
+        </div>
+    {% else if loopindex == 3 %}
+        <div class="col-md-4 text-center">
+          <div class="text-center">
+             <a target="_blank" href={{resource.link}}><h4>{{resource.title}}</h4></a>
+             <p >{{resource.content}}</p>
+          </div>
+        </div>
+      </div>
+    {% endif %}
+{% endfor %}

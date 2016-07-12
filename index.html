@@ -9,15 +9,17 @@ section: home
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
   <section id="{{sectionkey}}" class="section-item{% if thecycle == 'odd' %} section-alt{% endif %}">
     <div class="container-fluid">
-    {% if sectionitem.title %}
-    <div class="page-title text-center">
-      <h2>{{sectionitem.title}}</h2>
-      <div class="lead"><p>{{sectionitem.leadin}}</p></div>
-    </div>
-    {% endif %}
-    <div class="section-content container">
-      {% include  sections/{{sectionkey}}.html %}
-    </div>
+      {% if sectionitem.title %}
+      <div class="page-title text-center">
+        <h2>{{sectionitem.title}}</h2>
+        <div class="lead"><p>{{sectionitem.leadin}}</p></div>
+      </div>
+      {% endif %}
+      <div class="section-content container">
+        <div class="col-lg-10 col-lg-offset-1">
+          {% include  sections/{{sectionkey}}.html %}
+        </div>
+      </div>
   </div>
   </section>
   {% endfor %}
