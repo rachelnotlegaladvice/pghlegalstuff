@@ -1,20 +1,24 @@
 title: Cleveland Movement Law
+
 jail-support:
   number: "(216) 505-0654"
   info: "Call this number for jail support"
   help: "This number is not toll-free"
   nav: "Jail Support Hotline:"
+
 calls-to-action:
   jail-support: "Someone I know has been arrested, I need to find them/help them/figure out what to do"
   post-release: "I've been released and need guidance/support"
   donate: "Donate to Bail & Jail Support Fund"
   kyr: "Know Your Rights & Other Resources"
+
 donate:
   bail-fund:
     link: https://rally.org/f/iZvxNKUJD60
     header: "Donate to the Bail Fund"
     text: |
       Help ensure protestors can be bailed out as quickly as possible.
+
   jail-support-fund:
     link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
     header: "Donate to the Jail Support Fund"

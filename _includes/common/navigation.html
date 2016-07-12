@@ -14,7 +14,11 @@
         <div id="main-navigation" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             {% for section in site.data.sections %}
-            <li><a href="#{{section[0]}}">{{section[1].menu}}</a></li>
+              {% if page.url == "/" %}
+              <li><a href="#{{section[0]}}">{{section[1].menu}}</a></li>
+              {% else %}
+              <li><a href="{{site.baseurl}}#{{section[0]}}">{{section[1].menu}}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
