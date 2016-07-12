@@ -1,7 +1,7 @@
 ---
 category: faqs
 faqtype: jail-support
-published: false
+published: true
 title: Where were they taken?
 ---
-Those arrested in Cleveland are usually taken to Cleveland City Jail located in the Justice Center at 1300 Ontario Street. For the RNC, Cleveland has contracted with Cuyahoga County (also located within the Justice Center), Geauga County, and Summit County jails to house additional arrestees. There is also the possibility that arrestees will be held at various Cleveland Division of Police District stations, the Oriana House, or the House of Corrections (the “Workhouse”). 
+Those arrested in Cleveland are usually taken to Cleveland City Jail located in the Justice Center at 1300 Ontario Street. For the RNC, Cleveland has contracted with Cuyahoga County (also located within the Justice Center), Geauga County, and Summit County jails to house additional arrestees. There is also the possibility that arrestees will be held at various Cleveland Division of Police District stations, the Oriana House, or the House of Corrections (the “Workhouse”).
