@@ -6,6 +6,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 prose:
+  ignore: ['.*']
   siteurl: 'https://bmlp.org/static-starter/'
   relativeLinks: 'https://bmlp.org/static-starter/links.jsonp'
   media: 'media'
