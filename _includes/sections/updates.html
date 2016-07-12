@@ -1,0 +1,28 @@
+{% assign updates = site.categories.updates %}
+{% for update in updates %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 1 %}
+      <div class="row">
+        <div class="col-md-4 text-center">
+          <div class="text-center">
+             <a target="_blank" href={{update.path}}><h4>{{update.title}}</h5></a>
+            <p>{{update.content}}</p>
+          </div>
+        </div>
+    {% else if loopindex == 2 %}
+        <div class="col-md-4" >
+          <div class="text-center">
+             <a target="_blank" href={{update.path}}><h4>{{update.title}}</h5></a>
+            <p>{{update.content}}</p>
+          </div>
+        </div>
+    {% else if loopindex == 3 %}
+        <div class="col-md-4 text-center">
+          <div class="text-center">
+             <a target="_blank" href={{update.path}}><h4>{{update.title}}</h4></a>
+             <p >{{resource.content}}</p>
+          </div>
+        </div>
+      </div>
+    {% endif %}
+{% endfor %}
