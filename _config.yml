@@ -7,8 +7,16 @@ sass:
     style: :compressed
 prose:
   ignore: [
-    "*.*",
+    "_config.yml",
+    ".gitignore",
+    "blog.rss",
     "Gemfile",
+    "index.html",
+    "LICENCE.md",
+    "links.jsonp",
+    "manifest.appcache",
+    "README.md",
+    "site.js",
     "_includes",
     "_layouts",
     "_site",
