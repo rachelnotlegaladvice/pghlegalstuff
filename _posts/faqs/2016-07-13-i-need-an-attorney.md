@@ -1,6 +1,6 @@
 ---
 category: faqs
-faqtype: kyr
+faqtype: post-release
 published: false
 title: I need an attorney!
 ---
