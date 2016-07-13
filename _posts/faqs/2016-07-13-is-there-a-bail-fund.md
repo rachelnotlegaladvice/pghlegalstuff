@@ -1,7 +1,7 @@
 ---
 category: faqs
 faqtype: jail-support
-published: false
+published: true
 title: 'Is there a bail fund? '
 ---
 
