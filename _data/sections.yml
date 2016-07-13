@@ -15,7 +15,7 @@ jail-support:
     help locate them & make sure they're safe
 
 post-release:
-  title: I've been released & need guidance/support
+  title: Arrestee Support
   menu: "Post Release"
   leadin: >
     We can help!
