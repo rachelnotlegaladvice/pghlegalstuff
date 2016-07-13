@@ -1,6 +1,6 @@
 ---
 category: faqs
-faqtype: kyr
+faqtype: jail-support
 published: false
 title: How do I locate them?
 ---
