@@ -1,8 +1,9 @@
 ---
-title: Example Resource 2
 category: resources
+title: If An Agent Knocks
 resourcetype: kyr
-link: http://google.com
+link: >-
+  https://ccrjustice.org/sites/default/files/assets/files/CCR_If_An_Agent_Knocks.pdf
 published: true
 ---
-Example resource
+[Center for Constitutional Rights](https://www.ccrjustice.org) If An Agent Knocks booklet
