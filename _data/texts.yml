@@ -16,10 +16,10 @@ donate:
   bail-fund:
     link: https://rally.org/f/iZvxNKUJD60
     header: "Donate to the RNC Bail Fund"
-    text: |
+    text: We are administering a very limited bail fund for those who cannot afford to post bond on their own. We are prioritizing those with serious medical conditions, safety concerns, and/or childcare responsibilities. 
       
 
   jail-support-fund:
     link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
     header: "Donate to RNC Legal Support"
-    text: |
+    text: Funding is needed to secure our short-term office rental, Internet and phone service for our jail support hotline, laptops and external hard drives for our database and evidence retention, cell phones and walkie talkies for out-of-office communication, as well as basic office supplies and other necessary costs.
