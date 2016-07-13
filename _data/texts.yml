@@ -8,8 +8,8 @@ jail-support:
 
 calls-to-action:
   jail-support: "Someone I know has been arrested, I need to find them/help them/figure out what to do"
-  post-release: "I've been released and need guidance/support"
-  donate: "Donate to Bail & Jail Support Fund"
+  post-release: "I've been released & need guidance/support"
+  donate: "Donate to Bail & Legal Support Funds"
   kyr: "Know Your Rights & Other Resources"
 
 donate:
@@ -23,4 +23,3 @@ donate:
     link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
     header: "Donate to RNC Legal Support"
     text: |
-     
