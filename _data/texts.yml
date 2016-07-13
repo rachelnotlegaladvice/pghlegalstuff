@@ -15,14 +15,12 @@ calls-to-action:
 donate:
   bail-fund:
     link: https://rally.org/f/iZvxNKUJD60
-    header: "Donate to the Bail Fund"
+    header: "Donate to the RNC Bail Fund"
     text: |
-      Help ensure protestors can be bailed out as quickly as possible.
+      
 
   jail-support-fund:
     link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
-    header: "Donate to the Jail Support Fund"
+    header: "Donate to RNC Legal Support"
     text: |
-      These funds go to non-bail related costs to ensure that protesters
-      can be released as soon as possible and to ensure due process and
-      legal representation is available to all.
+     
