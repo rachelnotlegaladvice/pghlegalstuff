@@ -2,7 +2,7 @@ home:
   menu: Home
   title: Cleveland Movement Law
   leadin: >
-    RNC jail and arrestee support resources
+    RNC Jail & Arrestee Support Resources
   photo: bree.jpg
   template: home.html
 
@@ -12,13 +12,13 @@ jail-support:
   template: jail-support
   leadin: >
     Has a friend or loved one been arrested? Call our jail support hotline to
-    help locate them & make sure they're safe
+    help locate them & make sure they're safe.
 
 post-release:
   title: Arrestee Support
   menu: "Post Release"
   leadin: >
-    We can help!
+    Arrested demonstrating in Cleveland? Call our jail support hotline to see how we can help.
   text:  >
 
 donate:
