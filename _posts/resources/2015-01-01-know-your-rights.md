@@ -1,8 +1,9 @@
 ---
 category: resources
-title: Center for Constitutional Rights
+title: 'Center for Constitutional Rights: If An Agent Knocks'
 resourcetype: kyr
-link: 'http://www.ccrjustice.org'
+link: >-
+  https://ccrjustice.org/sites/default/files/assets/files/CCR_If_An_Agent_Knocks.pdf
 published: true
 ---
-[If An Agent Knocks](https://ccrjustice.org/sites/default/files/assets/files/CCR_If_An_Agent_Knocks.pdf)
+
