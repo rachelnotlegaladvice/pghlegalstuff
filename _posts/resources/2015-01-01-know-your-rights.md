@@ -1,8 +1,8 @@
 ---
-title: Legal Update
-category: updates
+title: Example Resource 1
+category: resources
 resourcetype: kyr
 link: http://google.com
 published: true
 ---
-Then don't answer it!
+Example resource

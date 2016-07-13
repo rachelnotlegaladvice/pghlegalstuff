@@ -4,7 +4,7 @@ jail-support:
   number: "(216) 505-0654"
   info: "Call this number for jail support"
   help: "This number is not toll-free"
-  nav: "Jail Support Hotline:"
+  nav: "Jail Support:"
 
 calls-to-action:
   jail-support: "Someone I know has been arrested, I need to find them/help them/figure out what to do"
