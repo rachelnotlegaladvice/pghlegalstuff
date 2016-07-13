@@ -3,7 +3,7 @@ home:
   title: Cleveland Movement Law
   leadin: >
     RNC Jail & Arrestee Support Resources
-  photo: bree.jpg
+  photo: 
   template: home.html
 
 jail-support:
@@ -25,7 +25,7 @@ donate:
   menu: Donate
   template: default
   leadin: >
-    Donate to legal support efforts.
+    Donate to the legal support fund.
   text:  >
     This is the default text
 
