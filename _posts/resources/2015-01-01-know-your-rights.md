@@ -1,8 +1,8 @@
 ---
-title: Example Resource 1
 category: resources
+title: Example Resource 1
 resourcetype: kyr
-link: http://google.com
+link: 'http://google.com'
 published: true
 ---
 Example resource
