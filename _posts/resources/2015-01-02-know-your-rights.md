@@ -1,6 +1,6 @@
 ---
 category: resources
-title: American Civil Liberties Union
+title: American Civil Liberties Union of Ohio
 resourcetype: kyr
 link: 'http://www.acluohio.org'
 published: true
