@@ -11,14 +11,13 @@ jail-support:
   menu: Jail Support
   template: jail-support
   leadin: >
-    Has a friend or loved one been arrested? Call our jail support hotline to
-    help locate them & make sure they're safe.
+    Has a friend or loved one been arrested? Call our jail support hotline to locate them.
 
 post-release:
   title: Arrestee Support
   menu: "Post Release"
   leadin: >
-    Arrested demonstrating in Cleveland? Call our jail support hotline to see how we can help.
+    Arrested demonstrating in Cleveland? Call our jail support hotline for help.
   text:  >
 
 donate:
