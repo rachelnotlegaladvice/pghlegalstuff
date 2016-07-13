@@ -1,8 +1,7 @@
 ---
-title: Example Resource 3
 category: resources
+title: Ohio NLG KYR Card
 resourcetype: kyr
-link: http://google.com
+link: 'http://google.com'
 published: true
 ---
-Example resource
