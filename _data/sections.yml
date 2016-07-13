@@ -26,7 +26,7 @@ donate:
   menu: Donate
   template: default
   leadin: >
-    Donate to the Bail Fund & Jail Support
+    Donate to the bail & legal support funds.
   text:  >
     This is the default text
 
@@ -35,14 +35,14 @@ kyr:
   menu: Your Rights
   template: kyr.html
   leadin: >
-    Your basics when it comes to protesting in Cleveland 
+    Your basics when it comes to protesting in Cleveland. 
 
 updates:
   title: Updates
   menu: Updates
   template: kyr.html
   leadin: >
-    Updates about
+    
 
 # contact:
 #   title: Contact Us
