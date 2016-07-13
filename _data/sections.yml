@@ -1,8 +1,8 @@
 home:
   menu: Home
-  title: Cleveland Movement-Law
+  title: Cleveland Movement Law
   leadin: >
-    Resources for movement Jail Support and protecting people on the front lines
+    Resources for movement jail support and protecting people on the front lines
   photo: bree.jpg
   template: home.html
 
