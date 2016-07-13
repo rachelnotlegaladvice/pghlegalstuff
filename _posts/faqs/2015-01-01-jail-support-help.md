@@ -1,12 +1,7 @@
 ---
-title: How can I found out if somoene I know got arrested?
 category: faq
+title: Where were they taken?
 faqtype: jail-support
 published: true
 ---
-
-Proin magna. Phasellus magna. Fusce fermentum. Mauris sollicitudin fermentum libero. Vestibulum volutpat pretium libero.
-
-Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Nunc sed turpis. Ut varius tincidunt libero. Nunc nec neque. Sed fringilla mauris sit amet nibh.
-
-Etiam vitae tortor. Aenean imperdiet. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Ut tincidunt tincidunt erat. Vivamus laoreet.
+Those arrested in Cleveland are usually taken to Cleveland City Jail located in the Justice Center at 1300 Ontario Street. For the RNC, Cleveland has contracted with Cuyahoga County (also located within the Justice Center), Geauga County, and Summit County jails to house additional arrestees. There is also the possibility that arrestees will be held at various Cleveland Division of Police District stations, the Oriana House, or the House of Corrections (the “Workhouse”). 
