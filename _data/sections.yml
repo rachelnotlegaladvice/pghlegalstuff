@@ -2,7 +2,7 @@ home:
   menu: Home
   title: Cleveland Movement Law
   leadin: >
-    Resources for movement jail support and protecting people on the front lines
+    jail and arrestee support resources
   photo: bree.jpg
   template: home.html
 
@@ -11,16 +11,15 @@ jail-support:
   menu: Jail Support
   template: jail-support
   leadin: >
-    Is a friend or loved one in jail? Contact our jail support volunteers to
-    help find them and make sure they are safe
+    Has a friend or loved one been arrested? Call our jail support hotline to
+    help locate them and make sure they're safe
 
 post-release:
   title: I've been released and need guidance/support
   menu: "Post Release"
   leadin: >
-    We can help you with your legal case after release
+    We can help
   text:  >
-    We have teams of volunteers
 
 donate:
   title: Donate
@@ -36,7 +35,7 @@ kyr:
   menu: Your Rights
   template: kyr.html
   leadin: >
-    Your basics when it comes to protesting in Cleveland
+    Your basics when it comes to protesting in Cleveland 
 
 updates:
   title: Updates
