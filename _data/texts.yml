@@ -1,10 +1,10 @@
 title: Cleveland Movement Law
 
 jail-support:
-  above-number-label: "Jail Support Hotline"
+  above-number-label: "Jail Support Hotline:"
   number: "(216) 5050-NLG (654)"
   below-help: "This number is not toll free and does not accept collect calls"
-  above-collect-label: "For collect calls only"
+  above-collect-label: "For Collect Calls Only:"
   collect-number: "(216) 496-6819"
   below-collect-help: |
     Some jails only allow you to make collect calls
