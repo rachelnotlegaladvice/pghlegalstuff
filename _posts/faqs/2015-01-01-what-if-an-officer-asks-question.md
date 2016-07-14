@@ -5,9 +5,9 @@ faqtype: kyr
 published: true
 ---
 * You are **never** obligated to answer any questions.
-* However, Ohio law requires you to identify yourself if:
-  * (1) You are suspected of a crime; or
-  * (2) You are a witness to a felony.
+* **However**, Ohio law requires you to identify yourself if:
+  * You are suspected of a crime; or
+  * You are a witness to a felony.
 * Loudly & clearly ask, “Am I legally required to identify myself?”
 * If the answer is yes, **only** then are you obligated provide:
   * Your legal name, date of birth, and address
