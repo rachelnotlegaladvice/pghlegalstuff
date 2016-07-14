@@ -1,7 +1,7 @@
 ---
 category: faqs
 faqtype: kyr
-published: false
+published: true
 title: Am I allowed to record law enforcement?
 ---
 * It is **legal** to record law enforcement performing their official duties in public in all fifty states. 
