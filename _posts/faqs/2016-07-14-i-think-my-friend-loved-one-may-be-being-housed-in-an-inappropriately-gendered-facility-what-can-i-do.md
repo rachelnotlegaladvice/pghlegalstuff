@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: >-
   I think my friend/loved one may be being housed in an inappropriately gendered
   facility. What can I do?
