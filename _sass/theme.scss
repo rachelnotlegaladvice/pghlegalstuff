@@ -1,7 +1,10 @@
 section.section-item {
     .page-title {
       h2 {
-        font-size: $font-size-h1 + 8;
+        font-size: $font-size-h1 + 12;
+      }
+      h3 {
+        font-size: $font-size-h1;
       }
     }
     padding: 10em 0em;
