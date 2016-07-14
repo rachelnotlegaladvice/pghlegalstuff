@@ -4,7 +4,7 @@ title: What if a police officer asks me a question?
 faqtype: kyr
 published: true
 ---
-* You are never obligated to answer any questions asked by law enforcement officers.
+* You are **never** obligated to answer any questions.
 * However, Ohio law requires you to identify yourself if:
   * (1) You are suspected of a crime; or
   * (2) You are a witness to a felony.
