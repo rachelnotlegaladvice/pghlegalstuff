@@ -1,6 +1,7 @@
 ---
 category: faqs
 faqtype: post-release
-published: false
+published: true
 title: I don't understand my charges.
 ---
+Explanations soon.
