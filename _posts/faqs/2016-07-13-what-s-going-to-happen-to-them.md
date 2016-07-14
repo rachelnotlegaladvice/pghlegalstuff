@@ -1,7 +1,6 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: What's going to happen to them?
 ---
-
