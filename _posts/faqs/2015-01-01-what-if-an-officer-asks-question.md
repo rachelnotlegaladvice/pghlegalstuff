@@ -1,6 +1,6 @@
 ---
 category: faq
-title: What if a police officer asks me a question?
+title: What if a law enforcement officer asks me a question?
 faqtype: kyr
 published: true
 ---
