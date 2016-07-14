@@ -11,7 +11,8 @@ section.section-item {
     }
     &#home {
       background:{
-        image: url("../img/bree.jpg");
+        color: darken($text-color, 90%)
+        // image: url("../img/bree.jpg");
         size: cover;
         position: center center;
         attachment: fixed;
