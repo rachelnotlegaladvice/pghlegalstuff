@@ -93,3 +93,8 @@ form {
 ul {
   padding-left: $font-size-base;
 }
+.row.spaced {
+  & > div {
+    padding-bottom: 4em;
+  }
+}
