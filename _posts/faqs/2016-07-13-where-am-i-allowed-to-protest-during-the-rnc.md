@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: kyr
 published: true
 title: 'Where am I allowed to protest during the RNC? '

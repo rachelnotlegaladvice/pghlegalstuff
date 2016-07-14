@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: kyr
 published: true
 title: What if law enforcement ask to search my belongings?

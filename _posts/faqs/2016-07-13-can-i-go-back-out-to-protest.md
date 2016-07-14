@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: post-release
 published: true
 title: 'Can I go back out to protest? '

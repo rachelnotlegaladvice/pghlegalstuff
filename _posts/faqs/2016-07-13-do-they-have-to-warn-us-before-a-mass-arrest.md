@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: kyr
 published: true
 title: Do they have to warn us before a mass arrest?

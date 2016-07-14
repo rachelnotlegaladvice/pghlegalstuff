@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: post-release
 published: true
 title: 'I''m from out of town, do I have to attend my court date(s)?'

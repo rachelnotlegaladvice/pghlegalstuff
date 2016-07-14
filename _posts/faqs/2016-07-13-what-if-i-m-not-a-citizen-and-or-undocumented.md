@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: post-release
 published: true
 title: What if I'm not a citizen and/or undocumented?

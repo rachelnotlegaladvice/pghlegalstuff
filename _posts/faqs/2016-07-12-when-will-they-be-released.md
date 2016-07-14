@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: jail-support
 published: true
 title: When will they be released?

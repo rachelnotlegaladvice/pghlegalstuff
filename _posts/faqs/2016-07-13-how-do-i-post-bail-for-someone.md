@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: jail-support
 published: true
 title: How do I post bail for someone?

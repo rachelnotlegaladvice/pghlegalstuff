@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: kyr
 published: true
 title: Am I allowed to record law enforcement?

@@ -1,5 +1,5 @@
 ---
-category: faqs
+category: faq
 faqtype: post-release
 published: true
 title: 'How do I get my stuff back? '
