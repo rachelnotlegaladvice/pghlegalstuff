@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: kyr
-published: false
+published: true
 title: Where am I allowed to protest during the RNC?
 ---
 * _Generally_, sidewalks and parks are considered public forums for free speech activity and do **not** require a permit **unless** they involve a large amount of people or the coordination of city-provided services.
