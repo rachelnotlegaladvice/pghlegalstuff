@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: Does this work?
 ---
 Testtttttttttt
