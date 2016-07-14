@@ -7,7 +7,7 @@ jail-support:
   above-collect-label: "For Collect Calls Only:"
   collect-number: "(216) 496-6819"
   below-collect-help: |
-    Some jails only allow you to make collect calls
+    Some jails, such as the Hosue of Corrections, only allow collect calls
   detailed-help: |
     The Ohio NLG RNC legal and jail support office is monitoring arrests as
     they occur and tracking arrestees through the system. All currently
@@ -20,7 +20,7 @@ calls-to-action:
   jail-support: "Someone I know has been arrested, I need to find them/help them/figure out what to do"
   post-release: "I've been released & need guidance/support"
   donate: "Donate to the legal support fund"
-  kyr: "Know Your Rights & Other Resources"
+  kyr: "Know Your Rights & other resources"
 
 donate:
   jail-support-fund:
