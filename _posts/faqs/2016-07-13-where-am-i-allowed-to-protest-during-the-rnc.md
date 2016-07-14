@@ -1,7 +1,7 @@
 ---
 category: faqs
 faqtype: kyr
-published: false
+published: true
 title: 'Where am I allowed to protest during the RNC? '
 ---
 * Generally, you do not need a permit for
