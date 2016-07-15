@@ -9,6 +9,16 @@ section: home
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
   <section id="{{sectionkey}}" class="section-item{% if thecycle == 'odd' %} section-alt{% endif %}">
     <div class="container-fluid">
+      {% if (site.data.texts.alert.published and sectionkey == 'home')  %}
+      <div class="container">
+        <div class="col-md-10 col-md-offset-1">
+          <div class="alert alert-warning text-center alert-dismissable" role="alert">
+             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <p>{{site.data.texts.alert.text}}</p>
+          </div>
+        </div>
+      </div>
+      {% endif %}
       {% if sectionitem.title %}
       <div class="page-title text-center">
         <h2>{{sectionitem.title}}</h2>

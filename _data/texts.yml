@@ -1,5 +1,9 @@
 title: Cleveland Movement Law
 
+alert:
+  published: true
+  text: "We just relaunched! This page will be updated frequently with new information so please check back"
+
 jail-support:
   above-number-label: "Jail Support Hotline:"
   number: "(216) 5050-NLG (654)"
@@ -15,7 +19,8 @@ jail-support:
     support hotline above. Please call our hotline immediately if you have any
     information concerning arrests or arrestees.
   nav: "Hotline:"
-
+kyr:
+  faq-disclaimer: "This FAQ is for informational purposes only and does not constitute legal advice"
 calls-to-action:
   jail-support: "Someone I know has been arrested, I need to find them/help them/figure out what to do"
   post-release: "I've been released & need guidance/support"
