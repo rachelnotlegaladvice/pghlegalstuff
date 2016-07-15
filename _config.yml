@@ -1,6 +1,6 @@
 host: 127.0.0.1
 port: 4020
-baseurl: "/new-site"
+baseurl: ""
 permalink: pretty
 sass:
     sass_dir: _sass
