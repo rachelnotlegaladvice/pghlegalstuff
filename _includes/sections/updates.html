@@ -6,21 +6,21 @@
         <div class="col-md-4">
           <div class="text-left">
              <a href={{site.baseurl}}{{update.url}}><h4>{{update.title}}</h5></a>
-            <p>{{update.content | truncatewords: 60}}</p>
+            <div>{{update.content | truncatewords: 60}}</div>
           </div>
         </div>
     {% else if loopindex == 2 %}
         <div class="col-md-4" >
           <div class="text-left">
              <a href={{site.baseurl}}{{update.url}}><h4>{{update.title}}</h5></a>
-            <p>{{update.content | truncatewords: 60}}</p>
+            <div>{{update.content | truncatewords: 60}}</div>
           </div>
         </div>
     {% else if loopindex == 3 %}
         <div class="col-md-4">
           <div class="text-left">
              <a href={{site.baseurl}}{{update.url}}><h4>{{update.title}}</h4></a>
-             <p >{{resource.content | truncatewords: 60}}</p>
+             <div>{{resource.content | truncatewords: 60}}</div>
           </div>
         </div>
       </div>
