@@ -7,9 +7,11 @@ alert:
 jail-support:
   above-number-label: "Jail Support Hotline:"
   number: "(216) 5050-NLG (654)"
+  number-url: "+1-216-505-0654"
   below-help: "This number is not toll free and does not accept collect calls"
   above-collect-label: "For Collect Calls Only:"
   collect-number: "(216) 496-6819"
+  collect-number-url: "+1-216-496-6819"
   below-collect-help: |
     Some jails, such as the House of Corrections, only allow collect calls
   detailed-help: |
