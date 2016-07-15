@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: >-
   My friend/love one has a medical condition & needs their medication. How do I
   make sure they get it/get it to them?
