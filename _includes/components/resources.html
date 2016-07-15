@@ -3,7 +3,7 @@
 <h2 class="text-center">Resources</h2>
 {% endif %}
 {% for resource in resources %}
-    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
     {% if loopindex == 1 %}
       <div class="row">
         <div class="col-md-4 text-center">
@@ -19,7 +19,7 @@
             <div>{{resource.content}}</div>
           </div>
         </div>
-    {% else if loopindex == 3 %}
+    {% else if loopindex == 0 %}
         <div class="col-md-4 text-center">
           <div class="text-center">
              <a target="_blank" href={{resource.link}}><h4>{{resource.title}}</h4></a>
