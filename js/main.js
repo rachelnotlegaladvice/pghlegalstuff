@@ -1,13 +1,13 @@
 'use strict';
 
 $(document).ready(function(){
-    /**
-     * Ensure each section is minimally the viewport height
-     */
-     $(".section-item").css("min-height", $(window).height());
-         $(window).resize(function(){
-             $(".section-item").css("min-height", $(window).height());
-     });
+    // /**
+    //  * Ensure each section is minimally the viewport height
+    //  */
+    //  $(".section-item").css("min-height", $(window).height());
+    //      $(window).resize(function(){
+    //          $(".section-item").css("min-height", $(window).height());
+    //  });
      /**
       * Collapse navbar when selecting an option
       */
