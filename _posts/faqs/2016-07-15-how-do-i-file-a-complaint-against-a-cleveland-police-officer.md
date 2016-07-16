@@ -1,7 +1,6 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: 'How do I file a complaint against a Cleveland police officer? '
 ---
-
