@@ -1,6 +1,6 @@
 ---
 category: faq
-faqtype: kyr
+faqtype: jail-support
 published: false
 title: >-
   I have video/photos/evidence of police misconduct/mass arrest/etc, what do I
