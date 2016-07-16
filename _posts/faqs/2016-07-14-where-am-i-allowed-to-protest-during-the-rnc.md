@@ -9,4 +9,4 @@ title: Where am I allowed to protest during the RNC?
 	* If an impromptu demonstration is planned as a result of unfolding events, organizers are required to notify the Cleveland Division of Police eight hours in advance by calling Field Operations at (216) 623-5011. 
 * **Free speech and assembly rights are greatly restricted within the [event zone](https://clecityhall.files.wordpress.com/2016/06/rnc-official-master-map.pdf) during the RNC.**
 	* Only [permitted](http://www.city.cleveland.oh.us/node/7932) marches on the [official parade route](https://clecityhall.files.wordpress.com/2016/06/rnc-official-parade-route.pdf) will be allowed.
-    * A number of [common items](https://assets.documentcloud.org/documents/2842638/RNC-Official-Event-Zone-Permit-Regulations.pdf) are also prohibitied within the event zone.
+    * A number of [common items](https://www.dropbox.com/sh/yvf9u065b0xl9x5/AAC-a5BMW3jaZ3MkU_B3lbZca/Full%20List%20of%20Prohibited%20Items.pdf?dl=0) are also prohibitied within the event zone.
