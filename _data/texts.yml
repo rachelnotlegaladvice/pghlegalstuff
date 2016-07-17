@@ -9,12 +9,12 @@ jail-support:
   above-number-label: "Jail Support Hotline:"
   number: "(216) 5050-NLG (654)"
   number-url: "+1-216-505-0654"
-  below-help: "This number is not toll free and does not accept collect calls"
+  below-help: "This number is not toll-free and does not accept collect calls."
   above-collect-label: "For Collect Calls Only:"
   collect-number: "(216) 496-6819"
   collect-number-url: "+1-216-496-6819"
   below-collect-help: |
-    Use this number from jails, such as the House of Corrections, only allow collect calls
+    Use this number from jails, such as the House of Corrections, that only allow collect calls.
   detailed-help: |
     The Ohio NLG RNC legal and jail support office is monitoring arrests as
     they occur and tracking arrestees through the system. All currently
