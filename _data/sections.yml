@@ -3,7 +3,7 @@ home:
   title: Cleveland Movement Law
   leadin: >
     RNC Jail & Arrestee Support Resources
-  photo: 
+  photo:
   template: home.html
 
 jail-support:
@@ -24,8 +24,9 @@ donate:
   title: Donate
   menu: Donate
   template: default
-  leadin: >
-    Donate to the legal support fund.
+  # leadin: >
+  #   Donate to the legal support fund.
+  #   removed b/c of duplicate title. use this when there are multiple funds
   text:  >
     This is the default text
 
@@ -34,14 +35,14 @@ kyr:
   menu: Your Rights
   template: kyr.html
   leadin: >
-    Your basics when it comes to protesting in Cleveland. 
+    Your basics when it comes to protesting in Cleveland.
 
 updates:
   title: Updates
   menu: Updates
   template: kyr.html
   leadin: >
-    
+
 
 # contact:
 #   title: Contact Us
