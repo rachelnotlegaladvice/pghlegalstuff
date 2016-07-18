@@ -1,17 +1,14 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: My friend/loved one was arrested. What's going to happen next?
 ---
-After being transported and processed,
+After arrest, people may end up in:
 
-* the district attorney will opt to not file charges and they will be released,
+* **Temporary detention** _(low-level allegations/charges for non-violent offenses)_: They will be processed and then, while detained, notified of their charges and have their bond set (according to a pre-determined bond schedule). Bond will either be money bond (must pay to be released) or personal bond (no payment, but there may be other conditions for released). After they are given charging paperwork and their bond is set (and paid), they will be released and issued a summons to appear in court later that day or the next day for arraignment. If a not guilty please is entered, they will have to continue to return to court until their case is resolved.
 
-* if only charged with low-level offenses, they will be taken to 
+* **Longer detention** _(more serious allegations/charges, such as violence or propery damage)_: They will be processed and then, straight from jail informed of their charges and taken to court for arraignment. Bond, either be money bond (must pay to be released) or personal bond (no payment, but there may be other conditions for released), will also be set. If a not guilty please is entered, they will have to continue to return to court until their case is resolved.  
 
-* if charged with more serious offenses, they will go before a judge for their initial appearance (misdemeanors) or preliminary arraignment (felonies) within 48 hours or a "reasonable amount of time." 
+NLG/NAACP/partner attorneys will be present at court and available – **UPON REQUEST** – to represent people at arraignment/bond hearings. Individuals **MUST specifically ask for an NLG/NAACP/partner attorney** in order for us to make an appearance in court. If they cannot afford an attorney and do not request us, they will be assigned a public defender. Individuals may also retain their own counsel.
 
-At this stage, they will be notified of the charges against them, their bond (the amount of money or conditions agreed to in order secure release) will be set, their plea will be entered (those without an attorney will automatically have a "not guitly" plea entered), and they will be assigned to a trial judge. 
-
-We aim to have Guild-affiliated attorneys at the courts to represent everyone at their initial appearances and preliminary arraignments. If you do not want an NLG attorney and cannot afford an attorney on your own, they will also be assigned a public defender at this stage.
