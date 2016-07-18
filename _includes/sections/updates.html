@@ -1,11 +1,11 @@
 {% assign updates = site.categories.updates %}
 <div class="row">
-{% for update in updates %}
-  <div class="col-md-4">
-    <div class="text-left">
-      <a href={{site.baseurl}}{{update.url}}><h4>{{update.title}}</h4></a>
-      <div>{{update.content | truncatewords: 60}}</div>
+  {% for update in updates %}
+    <div class="col-md-4">
+      <div class="text-left">
+        <a href={{site.baseurl}}{{update.url}}><h4>{{update.title}}</h4></a>
+        <div>{{update.content | truncatewords: 60}}</div>
+      </div>
     </div>
-  </div>
-{% endfor %}
+  {% endfor %}
 </div>
