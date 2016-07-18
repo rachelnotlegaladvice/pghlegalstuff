@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: 'How do I get them an attorney for their arraignment? '
 ---
 _Make sure that they specifically request a NLG/NAACP/partner attorneys before their arraignment or bond hearing._
