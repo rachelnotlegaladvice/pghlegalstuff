@@ -3,7 +3,7 @@ description: RNC Jail & Arrestee Support Resources
 
 alert:
   published: true
-  text: "We just relaunched! This page will be updated frequently with new information so please check back!"
+  text: "If you are arrested and would like an NLG/NAACP attorney for your hearing, you must specifically ask for one!"
 
 jail-support:
   above-number-label: "Jail Support Hotline:"
