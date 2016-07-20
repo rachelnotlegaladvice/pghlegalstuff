@@ -21,7 +21,7 @@ jail-support:
     available information about arrestees can be obtained by calling our jail
     support hotline above. Please call our hotline immediately if you have any
     information concerning arrests or arrestees.
-  nav: "Hotline:"
+  nav: ""
 kyr:
   faq-disclaimer: "This FAQ is for informational purposes only and does not constitute legal advice!"
 calls-to-action:
