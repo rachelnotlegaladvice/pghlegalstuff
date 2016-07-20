@@ -34,4 +34,20 @@ donate:
   jail-support-fund:
     link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
     header: "Donate to RNC Legal Support"
-    text: Funding is needed to secure our short-term office rental, Internet and phone service for our jail support hotline, laptops and external hard drives for our database and evidence retention, cell phones and walkie talkies for out-of-office communication, as well as basic office supplies and other necessary costs.
+    enabled: true
+    text: |
+      Funding is needed to secure our short-term office rental, Internet and
+      phone service for our jail support hotline, laptops and external hard drives
+      for our database and evidence retention, cell phones and walkie talkies for
+      out-of-office communication, as well as basic office supplies and other
+      necessary costs.
+  bail-fund:
+    link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
+    header: "Donate to RNC Legal Support"
+    enabled: false
+    text: |
+      Funding is needed to secure our short-term office rental, Internet and
+      phone service for our jail support hotline, laptops and external hard drives
+      for our database and evidence retention, cell phones and walkie talkies for
+      out-of-office communication, as well as basic office supplies and other
+      necessary costs.
