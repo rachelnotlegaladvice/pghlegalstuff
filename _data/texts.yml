@@ -3,7 +3,7 @@ description: RNC Jail & Arrestee Support Resources
 
 alert:
   published: true
-  text: "We just relaunched! This page will be updated frequently with new information so please check back!"
+  text: "If you are arrested and would like an NLG/NAACP attorney for your arraignment or bond hearing, you must SPECIFICALLY ask for one! Otherwise, unless you retain your own counsel, you will be assigned a public defender."
 
 jail-support:
   above-number-label: "Jail Support Hotline:"
@@ -42,12 +42,11 @@ donate:
       out-of-office communication, as well as basic office supplies and other
       necessary costs.
   bail-fund:
-    link: https://www.ioby.org/project/rnc-2016-nlg-protestor-legal-support
-    header: "Donate to RNC Legal Support"
-    enabled: false
+    link: https://bit.ly/resistrnc
+    header: "Donate to the Bail Fund"
+    enabled: true
     text: |
-      Funding is needed to secure our short-term office rental, Internet and
-      phone service for our jail support hotline, laptops and external hard drives
-      for our database and evidence retention, cell phones and walkie talkies for
-      out-of-office communication, as well as basic office supplies and other
-      necessary costs.
+      The Action Bail Fund (formerly the OWS Bail Fund) has been supporting bail
+      expenses and legal fees for arrests relating to protest activity, critique
+      and dissent in NYC since 2011. The fund is stewarded by a small group of
+      long term legal advocates and activists.
