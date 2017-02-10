@@ -2,7 +2,7 @@ home:
   menu: Home
   title: Pittsburgh Legal Stuff
   leadin: >
-    Pittsburgh Legal Stuff
+    Legal Resources for those Arrested in Allegheny County
   photo:
   template: home.html
 
