@@ -1,8 +1,8 @@
 home:
   menu: Home
-  title: Cleveland Movement Law
+  title: Pittsburgh Legal Stuff
   leadin: >
-    RNC Jail & Arrestee Support Resources
+    Pittsburgh Legal Stuff
   photo:
   template: home.html
 
@@ -11,13 +11,13 @@ jail-support:
   menu: Jail Support
   template: jail-support
   leadin: >
-    Has a friend or loved one been arrested? Call our jail support hotline to locate them.
+    Has a friend or loved one been arrested?
 
 post-release:
   title: Arrestee Support
   menu: "Post Release"
   leadin: >
-    Arrested demonstrating in Cleveland? Call our jail support hotline for help.
+    Arrested demonstrating in Pittsburgh?
   text:  >
 
 donate:
