@@ -11,31 +11,28 @@ jail-support:
   menu: Jail Support
   template: jail-support
   leadin: >
-    Has a friend or loved one been arrested?
+    Information for those trying to locate friends or loved ones.
 
 post-release:
   title: Arrestee Support
   menu: "Post Release"
   leadin: >
-    Arrested demonstrating in Pittsburgh?
+    Information for those arrested in Allegheny County.
   text:  >
 
 donate:
   title: Donate
   menu: Donate
   template: default
-  # leadin: >
-  #   Donate to the legal support fund.
-  #   removed b/c of duplicate title. use this when there are multiple funds
-  text:  >
-    This is the default text
+  leadin: >
+    Various arrestee support funds. 
 
 kyr:
   title: Know Your Rights
   menu: Your Rights
   template: kyr.html
   leadin: >
-    Your basics when it comes to protesting in Cleveland.
+    Your basic rights. Not legal advice.
 
 updates:
   title: Updates
