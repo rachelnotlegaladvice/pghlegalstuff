@@ -1,8 +1,7 @@
 ---
 category: resources
-title: 'American Civil Liberties Union of Ohio: 2016 RNC Constitutional Playbook'
+title: 'American Civil Liberties Union: Know Your Rights Materials'
 resourcetype: kyr
-link: 'http://www.acluohio.org/rnc'
+link: 'https://www.aclu.org/know-your-rights'
 published: true
 ---
-
