@@ -12,3 +12,5 @@ __Please note that the time of the preliminary arraignment is likely to be pushe
 
 Preliminary arraignemnts are open to the public but are often held via a closed-circuit TV system. If the arrestee is released on their own recognizance (on their word that they will comply with the terms of their release and appear at all future court appearances), they will be released immediately from the arraignment courtroom.   
 
+
+
