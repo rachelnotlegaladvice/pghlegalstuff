@@ -39,6 +39,6 @@ donate:
 
   bail-fund:
     link: http://pghlegaldefen.se/
-    header: "Donate to Pittsburghers Arrested Protesting Trump in Pittsburgh"
+    header: "Donate to Those Arrested Protesting Trump in Pittsburgh"
     enabled: true
     text: |
