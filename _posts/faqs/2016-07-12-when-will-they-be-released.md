@@ -10,8 +10,8 @@ Preliminary arraignments are held 24/7 at [Pittbsurgh Municipal District Court #
 
 __Please note that the time of the preliminary arraignment is likely to be pushed back from the original estimate.__
 
-Preliminary arraignemnts are open to the public but are often held via a closed-circuit TV system. If the arrestee is released on their own recognizance (on their word that they will comply with the terms of their release and appear at all future court appearances), they will be released immediately from the arraignment courtroom.   
+Preliminary arraignments are open to the public but are often held via a closed-circuit TV system. If the arrestee is released on their own recognizance (on their word that they will comply with the terms of their release and appear at all future court appearances), they will be released immediately from the arraignment courtroom.   
 
+If the arrestee is held on bond, they will be held until bond is posted. If posted quickly, they will likely be released from the Municipal District Court, rather than Allegheny County Jail. 
 
-
-.
+If bail is denied, they will be held until the resolution of their case or their bail is adjusted. 
