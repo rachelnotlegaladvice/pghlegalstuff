@@ -4,4 +4,10 @@ faqtype: post-release
 published: true
 title: 'How do I get my stuff back? '
 ---
-Personal property may be retrieved by the owner at the first floor security desk at the [Justice Center](https://goo.gl/maps/5LZpvAWhn5P2) between 8am and 7pm. The owner must present a valid ID **and** their property bag receipt. All belongings must be retrieved within 90 days.
+If you were arrested by a police officer from a different zone, it is likely that your belongings are at your arresting officer's zone station. A list of Pittsburgh Police zone stations is available [here](http://www.pittsburghpa.gov/police/zones). 
+
+If you were processed into Allegheny County Jail with your property, it 
+
+can be picked up by a family member between 1:45 and 2:00pm
+
+
