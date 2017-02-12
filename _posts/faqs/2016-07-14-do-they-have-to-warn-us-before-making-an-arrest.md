@@ -4,4 +4,6 @@ faqtype: kyr
 published: true
 title: Do they have to warn us before making an arrest?
 ---
-It depends. Under the City’s new [mass arrest dispersal order](http://www.acluohio.org/wp-content/uploads/2016/06/CDP-RevisedDispersalOrder-2015_0827.pdf), officers must warn demonstrators three times and identify exit routes prior to mass arresting people. However, this only applies to mass arrests for unlawful assembly and may not apply in all other circumstances.
+It's unclear if a warning is required before making a mass arrest. However, it is standard for a disperal warning to be given three times before a mass arrest takes place. 
+
+_Note: This only applies to mass arrests for unlawful assembly and may not apply in all other circumstances._
