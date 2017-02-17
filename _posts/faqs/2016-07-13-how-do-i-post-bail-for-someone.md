@@ -18,6 +18,6 @@ If posted through [Allegheny County Bail Services](https://www.alleghenycourts.u
 
 Amounts paid to private bond agencies (typically 5-10% of the posted amount) are nonrefundable. Most private bail agencies require the person posting bail to provide photo identification as well as proof of mailing address. 
 
-If the arrestee fails to appear at any scheduled court appearancess any bail posted to secure their release will be forfeited.
+**If the arrestee fails to appear at any scheduled court appearancess any bail posted to secure their release will be forfeited and, in the case of a percentage bond, the person who posted bail is responsible for the full amount. **
 
 _It may still take several hours after bond is posted for a person to be processed for release, especially if a mass arrest occured_. If bail is posted quickly (before the arrestee is transferred), the arrestee will be released from the [Municipal District Court building](https://goo.gl/maps/xhNsbQMZ2Hm). If bail posting takes longer (after the arrestee has been transferred), the arrestee will be released from  [Allegheny County Jail](https://goo.gl/maps/h1SfEPzyRaJ2). 
