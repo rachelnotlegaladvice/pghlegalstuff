@@ -12,6 +12,6 @@ __Please note that the time of the preliminary arraignment is likely to be pushe
 
 Preliminary arraignments are open to the public but are often held via a closed-circuit TV system. If the arrestee is released on their own recognizance (on their word that they will comply with the terms of their release and appear at all future court appearances), they will be released immediately from the arraignment courtroom.   
 
-If the arrestee is held on bond, they will be held until bond is posted. If posted quickly, they will likely be released from the Municipal District Court, rather than Allegheny County Jail. 
+If the arrestee is held on bond, they will be held until bond is posted. If posted quickly, they will likely be released from the [Municipal District Court building](https://goo.gl/maps/xhNsbQMZ2Hm), rather than [Allegheny County Jail](https://goo.gl/maps/h1SfEPzyRaJ2). 
 
-If bail is denied, they will be held until the resolution of their case or their bail is adjusted. 
+If bail is denied, they will be held until the resolution of their case or their bail is adjusted.
