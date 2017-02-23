@@ -34,9 +34,9 @@ kyr:
   leadin: >
     Your basic rights. Not legal advice.
 
-updates:
+resources:
   title: Resources
-  menu: Updates
+  menu: Resources
   template: kyr.html
   leadin: >
 
