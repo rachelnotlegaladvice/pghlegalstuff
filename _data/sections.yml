@@ -34,11 +34,11 @@ kyr:
   leadin: >
     Your basic rights. Not legal advice.
 
-resources:
+updates:
   title: Resources
   menu: Resources
   template: kyr.html
-  leadin: >
+  leadin: > 
 
 
 # contact:
