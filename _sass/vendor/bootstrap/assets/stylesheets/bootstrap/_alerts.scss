@@ -7,10 +7,10 @@
 // -------------------------
 
 .alert {
-  padding: $alert-padding;
+  padding: 5px;
   margin-bottom: $line-height-computed;
-  border: 1px solid transparent;
-  border-radius: $alert-border-radius;
+  border: 5px solid transparent;
+  border-radius: 20px;
 
   // Headings for larger alerts
   h4 {
