@@ -21,9 +21,9 @@ section.section-item {
       }
       .page-title {
         padding: 60px;
-        color: lighten($text-color, 80%);
+        color: #000000;
         h2 {
-          color: lighten($text-color, 80%)
+          color: #000000)
         }
       }
       .cta-section {
@@ -51,7 +51,7 @@ footer {
   opacity: .8;
   padding: 1em;
   a {
-    color: #FFFFFF;
+    color: #FFD700;
     text-decoration: none;
   }
 }
