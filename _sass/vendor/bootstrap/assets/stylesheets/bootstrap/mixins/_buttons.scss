@@ -15,9 +15,9 @@
         border-color: #FFD700;
   }
   &:hover {
-    color: #FFD700;
-    background-color: #000000;
-        border-color: #FFD700;
+    color: #FFFFFF;
+    background-color: #FFD700;
+        border-color: #FFFFFF;
   }
   &:active,
   &.active,
@@ -64,5 +64,5 @@
   padding: $padding-vertical $padding-horizontal;
   font-size: $font-size;
   line-height: $line-height;
-  border-radius: 2px;
+  border-radius: 10px;
 }
