@@ -14,7 +14,7 @@ section.section-item {
     }
     &#home {
       background:{
-        color: $link-color;
+        color: #FFFFFF;
         size: cover;
         position: center center;
         attachment: fixed;
@@ -37,7 +37,7 @@ section.section-item {
 }
 footer {
   padding:4em 0;
-  background-color: $link-color;
+  background-color: FFFFFF;
   color: $body-bg;
   a, h1, h2, h3, h4 {
       color: $body-bg;
