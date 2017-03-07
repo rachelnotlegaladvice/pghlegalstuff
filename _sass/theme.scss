@@ -37,17 +37,17 @@ section.section-item {
 }
 footer {
   padding:4em 0;
-  background-color: FFFFFF;
-  color: $body-bg;
+  background-color: #FFFFFF;
+  color: #000000;
   a, h1, h2, h3, h4 {
-      color: $body-bg;
+      color: #000000;
   }
 }
 #back-to-top{
   position: fixed;
   bottom: 10px;
   right: 10px;
-  background-color: $text-color;
+  background-color: #000000;
   opacity: .8;
   padding: 1em;
   a {
@@ -100,5 +100,5 @@ ul {
 }
 
 .alert {
-  margin-top: 4em;
+  margin-top: 2em;
 }
