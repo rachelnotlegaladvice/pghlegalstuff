@@ -11,7 +11,7 @@ jail-support:
   menu: Jail Support
   template: jail-support
   leadin: >
-    Information for those trying to locate friends or loved ones.
+    Information for those trying to locate people.
 
 post-release:
   title: Arrestee Support
@@ -39,6 +39,7 @@ updates:
   menu: Resources
   template: kyr.html
   leadin: > 
+    External legal resources.
 
 
 # contact:
