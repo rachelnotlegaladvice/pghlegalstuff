@@ -14,7 +14,7 @@ section.section-item {
     }
     &#home {
       background:{
-        color: #000000;
+        color: #FFFFFF;
         size: cover;
         position: center center;
         attachment: fixed;
@@ -37,10 +37,10 @@ section.section-item {
 }
 footer {
   padding:4em 0;
-  background-color: #FFFFFF;
-  color: #000000;
+  background-color: #000000;
+  color: #FFFFFF;
   a, h1, h2, h3, h4 {
-      color: #000000;
+      color: #FFFFFF;
   }
 }
 #back-to-top{
@@ -51,7 +51,7 @@ footer {
   opacity: .8;
   padding: 1em;
   a {
-    color: $body-bg;
+    color: #FFFFFF;
     text-decoration: none;
   }
 }
