@@ -6,13 +6,13 @@ alert:
   text: "This information is provided for informational purposes and does not constitute legal advice."
 
 jail-support:
-  above-number-label: "XXX"
-  number: "XXXXXXXXX"
-  number-url: "+X-XXX-XXX-XXXX"
-  below-help: "This number is XXXXX."
-  above-collect-label: "XXX:"
-  collect-number: "XXXXXXXXX"
-  collect-number-url: "+X-XXX-XXX-XXXX"
+  above-number-label: "Pittsburgh Municipal Court"
+  number: "(412) 350-6720"
+  number-url: "+1-412-350-6720"
+  below-help: "For arraignment info, press 1."
+  above-collect-label: "Allegheny County Jail:"
+  collect-number: "(412) 350-2000"
+  collect-number-url: "+1-412-350-2000"
   below-collect-help: |
     This number is XXXX.
   detailed-help: |
