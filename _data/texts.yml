@@ -20,11 +20,11 @@ jail-support:
 kyr:
   faq-disclaimer: "This FAQ is for informational purposes only and does not constitute legal advice!"
 calls-to-action:
-  jail-support: "What to do if SOMEONE ELSE has been arrested"
-  post-release: "What to do if YOU'VE been arrested"
-  donate: "Donate legal support funds"
-  kyr: "Know Your Rights materials"
-  resources: "Other resources"
+  jail-support: "What to do if SOMEONE ELSE has been ARRESTED"
+  post-release: "What to do if YOU'VE been ARRESTED"
+  donate: "DONATE legal support funds"
+  kyr: "KNOW YOUR RIGHTS materials"
+  resources: "Other RESOURCES"
 
 donate:
   jail-support-fund:
