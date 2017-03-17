@@ -3,7 +3,7 @@ description: A Legal Resource for Allegheny County
 
 alert:
   published: true
-  text: "This information is provided for informational purposes and does not constitute legal advice. Website is a work in progress. Please check back later."
+  text: "Website is a work in progress. Please check back! This information is provided for informational purposes and does not constitute legal advice."
 
 jail-support:
   above-number-label: "Pittsburgh Municipal Court"
