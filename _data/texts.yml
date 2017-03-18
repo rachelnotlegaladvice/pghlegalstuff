@@ -18,7 +18,7 @@ jail-support:
   detailed-help: |
   nav: ""
 kyr:
-  faq-disclaimer: "This FAQ is for informational purposes only and does not constitute legal advice!"
+  # faq-disclaimer: "This FAQ is for informational purposes only and does not constitute legal advice!"
 calls-to-action:
   jail-support: "What to do if SOMEONE ELSE has been ARRESTED"
   post-release: "What to do if YOU'VE been ARRESTED"
