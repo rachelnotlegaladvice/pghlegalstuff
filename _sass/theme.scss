@@ -52,7 +52,9 @@ footer {
   a {
     color: #FFD700;
     text-decoration: none;
-      hover: #FFFFFF;
+  }
+  hover, active {
+    color: #FFFFFF;
   }
 }
 
