@@ -10,11 +10,11 @@ section.section-item {
     padding: 10em 0em;
     color: inherit;
     &.section-alt {
-      background-color: #987654;
+      background-color: #ccc;
     }
     &#home {
       background:{
-        color: #FFD700;
+        color: #e6e6e6;
         size: cover;
         position: center center;
         attachment: fixed;
