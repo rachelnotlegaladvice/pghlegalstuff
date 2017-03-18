@@ -10,7 +10,7 @@ section.section-item {
     padding: 10em 0em;
     color: inherit;
     &.section-alt {
-      background-color: darken($table-bg-accent, 10%);
+      background-color: $table-bg-accent;
     }
     &#home {
       background:{
@@ -29,7 +29,7 @@ section.section-item {
       .cta-section {
         color: #000000;
         h2 {
-          color: darken($text-color, 90%);
+          color: $text-color;
           font-size: 300%;
         }
       }
@@ -52,6 +52,7 @@ footer {
   a {
     color: #FFD700;
     text-decoration: none;
+      hover: #FFFFFF;
   }
 }
 
