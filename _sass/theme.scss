@@ -41,25 +41,34 @@ footer {
   color: #FFD700;
   a, h1, h2, h3, h4 {
       color: #FFFFFF;
+      &:hover {
+    color: #FFD700;
+  }
+     &:focus {
+    color: #FFD700;
+  }
+     &:active {
+    color: #FFD700;
+  }
   }
 }
 #back-to-top{
   position: fixed;
   bottom: 10px;
   right: 10px;
-  background-color: #000000;
+  background-color: transparent;
   padding: 1em;
   a {
     color: #FFD700;
     text-decoration: none;
   &:hover {
-    color: #FFFFFF;
+    color: #000000;
   }
      &:focus {
-    color: #FFFFFF;
+    color: #000000;
   }
      &:active {
-    color: #FFFFFF;
+    color: #000000;
   }
     }
 }
