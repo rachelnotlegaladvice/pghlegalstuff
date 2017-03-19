@@ -61,16 +61,16 @@ footer {
   background-color: transparent;
   padding: 1em;
   a {
-    color: #FFD700;
+    color: #000000;
     text-decoration: none;
   &:hover {
-    color: #000000;
+    color: #FFD700;
   }
      &:focus {
-    color: #000000;
+    color: #FFD700;
   }
      &:active {
-    color: #000000;
+    color: #FFD700;
   }
     }
 }
