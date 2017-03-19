@@ -39,10 +39,11 @@ footer {
   padding:4em 0;
   background-color: #000000;
   color: #FFD700;
-  a, h1, h2, h3, h4 {
+  a {
       color: #FFFFFF;
       &:hover {
     color: #FFD700;
+    background-color: transparent;
   }
      &:focus {
     color: #FFD700;
