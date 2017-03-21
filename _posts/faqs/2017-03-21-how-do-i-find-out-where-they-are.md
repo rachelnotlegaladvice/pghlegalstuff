@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: 'How do I find out where they are? '
 ---
 Those arrested in Pittsburgh are usually taken to [Pittbsurgh Municipal District Court](http://www.pacourts.us/courts/minor-courts/) [phone: (412) 350-6720] located at [600 First Avenue, 15219 (downtown)](https://goo.gl/maps/xhNsbQMZ2Hm) be be processed and await their preliminay arraignment (generally held with 72 hours). 
