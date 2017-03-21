@@ -1,8 +1,8 @@
 home:
   menu: Home
-  title: Pittsburgh Legal Stuff
+  title: THIS NEEDS A NAME VERY BADLY
   leadin: >
-    Legal Resources for those Arrested in Allegheny County
+    Legal Info & Resources for Those Arrested in Pittsburgh/Allegheny County
   photo:
   template: home.html
 
@@ -17,7 +17,7 @@ post-release:
   title: Arrestee Support
   menu: "Post Release"
   leadin: >
-    Information for those arrested in Allegheny County.
+    Information for those released.
   text:  >
 
 donate:
