@@ -42,8 +42,8 @@ updates:
     External legal resources.
 
 
-# arrest-process:
-#   title: Arrest Process
-#   menu: Arrest Process
-#   leadin: >
-#     Arrest Process
+arrest-process:
+  title: Arrest Process
+  menu: Arrest Process
+  leadin: >
+    Arrest Process
