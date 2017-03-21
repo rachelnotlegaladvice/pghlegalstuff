@@ -22,9 +22,10 @@ kyr:
 calls-to-action:
   jail-support: "What to do if SOMEONE ELSE has been ARRESTED"
   post-release: "What to do if YOU'VE been ARRESTED"
+  # what-to-expect: "What to EXPECT if you're ARRESTED"
   donate: "DONATE legal support funds"
   kyr: "KNOW YOUR RIGHTS materials"
-  updates: "Other RESOURCES"
+  updates: "Other legal RESOURCES"
 
 donate:
   jail-support-fund:
