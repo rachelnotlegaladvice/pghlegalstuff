@@ -17,12 +17,15 @@ jail-support:
     This number is XXXX.
   detailed-help: |
   nav: ""
+
 kyr:
-  # faq-disclaimer: "This FAQ is for informational purposes only and does not constitute legal advice!"
+
+arest-process:
+
 calls-to-action:
   jail-support: "What to do if SOMEONE ELSE has been ARRESTED"
   post-release: "What to do if YOU'VE been ARRESTED"
-  # what-to-expect: "What to EXPECT if you're ARRESTED"
+  what-to-expect: "What to EXPECT if you're ARRESTED"
   donate: "DONATE to legal support funds"
   kyr: "KNOW YOUR RIGHTS materials"
   updates: "Other legal INFO & RESOURCES"
