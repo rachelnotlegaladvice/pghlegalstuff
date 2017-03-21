@@ -12,4 +12,4 @@ Those arrested on lower-level offenses may also be processed and released from v
 
 Keep in mind that in the event of mass arrests, arrestees will likely be sitting in police vans, busses, etc for several hours and will not be immediately transported to the jail or station for processing and phone calls. 
 
-**_To contact Allegheny County Jail booking directly_**, call (412) XXX-XXXX. This number is operational 24/7. **_To contact Allegheny County XXX directly_,** call (412) XXX-XXXX. This number is XXX.
+**_To contact Pittsburgh Municipal Court directly_,** call (412) 350-6720. **_To contact Allegheny County Jail booking directly_**, call (412) 350-2000. These numbers are operational 24/7.
