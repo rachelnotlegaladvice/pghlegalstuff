@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: jail-support
-published: false
+published: true
 title: When will they be released?
 ---
 Generally, arrestees must be processed and appear for their preliminary arraignment within 72 hours or within “reasonable amount of time” of their arrest. Those arrested on Friday or Saturday nights typically have longer processing times than those arrested other days and times. 
