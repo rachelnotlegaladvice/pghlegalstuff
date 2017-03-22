@@ -20,12 +20,11 @@ post-release:
     Information for those released.
   text:  >
 
-donate:
-  title: Donate
-  menu: Donate
-  template: default
+arrest-process:
+  title: Arrest Process
+  menu: Arrest Process
   leadin: >
-    Various arrestee support funds. 
+    What to expect if you're arrested.
 
 kyr:
   title: Know Your Rights
@@ -34,16 +33,16 @@ kyr:
   leadin: >
     This FAQ is for informational purposes only and does not constitute legal advice!
 
+donate:
+  title: Donate
+  menu: Donate
+  template: default
+  leadin: >
+    Various arrestee support funds. 
+    
 updates:
   title: Resources
   menu: Resources
   template: kyr.html
   leadin: > 
     External legal resources.
-
-
-arrest-process:
-  title: Arrest Process
-  menu: Arrest Process
-  leadin: >
-    What to expect if you're arrested.
