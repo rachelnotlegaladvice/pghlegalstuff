@@ -15,7 +15,7 @@ jail-support:
 
 post-release:
   title: Arrestee Support
-  menu: "Post Release"
+  menu: Post Release
   leadin: >
     Information for those released.
   text:  >
