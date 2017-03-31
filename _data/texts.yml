@@ -33,13 +33,13 @@ calls-to-action:
 donate:
   jail-support-fund:
     link: https://fundrazr.com/J20-legal
-    header: "Donate to Pittsburghers Arrested at #J20 Protests"
+    header: "Donate to Pittsburgh #J20 Protesters"
     enabled: true
     text: |
 
   bail-fund:
     link: http://pghlegaldefen.se/
-    header: "Donate to Those Arrested Protesting Trump in Pittsburgh"
+    header: "Donate to Pittsburgh Trump Arrestees"
     enabled: true
     text: |
     
