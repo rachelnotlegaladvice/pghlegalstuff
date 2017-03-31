@@ -575,7 +575,7 @@
 
   // Darken the responsive nav toggle
   .navbar-toggle {
-    border-color: #000000;
+    border-color: #FFD700;
     &:hover,
     &:focus {
       background-color: #000000;
@@ -587,7 +587,7 @@
 
   .navbar-collapse,
   .navbar-form {
-    border-color: #000000;
+    border-color: #FFD700;
   }
 
   // Dropdowns
@@ -622,8 +622,8 @@
           &,
           &:hover,
           &:focus {
-            color: $navbar-inverse-link-active-color;
-            background-color: $navbar-inverse-link-active-bg;
+            color: #FFD700;
+            background-color: #000000;
           }
         }
         > .disabled > a {
@@ -646,10 +646,10 @@
   }
 
   .btn-link {
-    color: $navbar-inverse-link-color;
+    color: #FFD700;
     &:hover,
     &:focus {
-      color: $navbar-inverse-link-hover-color;
+      color: #FFD700;
     }
     &[disabled],
     fieldset[disabled] & {
