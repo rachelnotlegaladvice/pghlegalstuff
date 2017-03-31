@@ -42,3 +42,10 @@ donate:
     header: "Donate to Those Arrested Protesting Trump in Pittsburgh"
     enabled: true
     text: |
+    
+  ACJ11-fund:
+    link: https://www.fundedjustice.com/71Dss1?ref=sh_b6YOs8
+    header: "Donate to ACJ 3/20 Arrestees"
+    enabled: true
+    text: |
+    
