@@ -35,17 +35,17 @@ donate:
     link: https://fundrazr.com/J20-legal
     header: "Donate to Pittsburgh #J20 Protesters"
     enabled: true
-    text: heyyyyyyy
+    text: Funds are needed to help pay lawyer fees, settle fines and court costs, and cover travel/housing costs for the 10 Pittsburghers arrested protesting at Trump's inauguration. 
 
   Trump-fund:
     link: http://pghlegaldefen.se/
     header: "Donate to Pittsburgh Trump Arrestees"
     enabled: true
-    text: innfffooooo
+    text: Funds are needed to help pay lawyers fees, fines, and court costs for the 3 Pittsburghers arrested protesting Trump's campaign stop in Pittsburgh.
     
   ACJ11-fund:
     link: https://www.fundedjustice.com/71Dss1?ref=sh_b6YOs8
     header: "Donate to ACJ 3/20 Arrestees"
     enabled: true
-    text: monnneeyyy
+    text: Funds are needed to help pay lawyers fees, fines, and court costs for the 11 Pittsburghers arrested at a solidarity demonstration outside of Allegheny County Jail.
     
