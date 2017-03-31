@@ -31,13 +31,13 @@ calls-to-action:
   updates: "Other legal INFO & RESOURCES"
 
 donate:
-  jail-support-fund:
+  J20-fund:
     link: https://fundrazr.com/J20-legal
     header: "Donate to Pittsburgh #J20 Protesters"
     enabled: true
     text: |
 
-  bail-fund:
+  Trump-fund:
     link: http://pghlegaldefen.se/
     header: "Donate to Pittsburgh Trump Arrestees"
     enabled: true
