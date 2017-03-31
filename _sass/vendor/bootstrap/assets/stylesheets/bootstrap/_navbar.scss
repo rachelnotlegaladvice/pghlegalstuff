@@ -462,8 +462,8 @@
       &,
       &:hover,
       &:focus {
-        background-color: $navbar-default-link-active-bg;
-        color: $navbar-default-link-active-color;
+        background-color: #000000;
+        color: #FFD700;
       }
     }
 
@@ -575,19 +575,19 @@
 
   // Darken the responsive nav toggle
   .navbar-toggle {
-    border-color: $navbar-inverse-toggle-border-color;
+    border-color: #000000;
     &:hover,
     &:focus {
-      background-color: $navbar-inverse-toggle-hover-bg;
+      background-color: #000000;
     }
     .icon-bar {
-      background-color: $navbar-inverse-toggle-icon-bar-bg;
+      background-color: #000000;
     }
   }
 
   .navbar-collapse,
   .navbar-form {
-    border-color: darken($navbar-inverse-bg, 7%);
+    border-color: #000000;
   }
 
   // Dropdowns
@@ -596,8 +596,8 @@
       &,
       &:hover,
       &:focus {
-        background-color: $navbar-inverse-link-active-bg;
-        color: $navbar-inverse-link-active-color;
+        background-color: #000000;
+        color: #FFD700;
       }
     }
 
@@ -605,17 +605,17 @@
       // Dropdowns get custom display
       .open .dropdown-menu {
         > .dropdown-header {
-          border-color: $navbar-inverse-border;
+          border-color: #FFD700;
         }
         .divider {
-          background-color: $navbar-inverse-border;
+          background-color: #000000;
         }
         > li > a {
-          color: $navbar-inverse-link-color;
+          color: #FFD700;
           &:hover,
           &:focus {
-            color: $navbar-inverse-link-hover-color;
-            background-color: $navbar-inverse-link-hover-bg;
+            color: #FFD700;
+            background-color: #000000;
           }
         }
         > .active > a {
