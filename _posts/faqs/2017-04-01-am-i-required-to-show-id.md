@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: kyr
-published: false
+published: true
 title: Am I required to show ID?
 ---
 * In Pennsylvania, you are also not required to identify yourself to law enforcement.
