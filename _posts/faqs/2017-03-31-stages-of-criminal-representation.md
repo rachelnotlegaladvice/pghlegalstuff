@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: post-release
-published: false
+published: true
 title: Stages of Criminal Representation
 ---
 **Preliminary Arraignment**: If you’re in being held in custody, your preliminary arraignment will be held before a Magistrate District Judge within 72 hours of your arrest. At this stage, you will be officially notified of the charges against you and your bail, if any, will be set. If you received a summons, rather than having been arrested, your bail, if any, may be set before the Preliminary Hearing.
@@ -16,4 +16,4 @@ title: Stages of Criminal Representation
 
 **Sentencing**: You may be sentenced the same day as your trial or plea or up to ninety (90) days later. 
 
-**Appeals/Post Conviction Relief**: Appeals must be filed within 30 days of your sentencing date or court’s rulings on Post Sentence Proceedings. The Appellate Courts will only consider issues that allege errors of law, not fact. 
+**Appeals/Post Conviction Relief**: Appeals must be filed within 30 days of your sentencing date or court’s rulings on Post Sentence Proceedings. The Appellate Courts will only consider issues that allege errors of law, not fact.
