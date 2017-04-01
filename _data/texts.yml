@@ -10,7 +10,7 @@ jail-support:
   number: "(412) 350-6720"
   number-url: "+1-412-350-6720"
   below-help: "For arraignment info, press 1."
-  above-collect-label: "Allegheny County Jail:"
+  above-collect-label: "Allegheny County Jail"
   collect-number: "(412) 350-2000"
   collect-number-url: "+1-412-350-2000"
   below-collect-help: |
