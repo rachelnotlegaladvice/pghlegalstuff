@@ -1,6 +1,6 @@
 ---
 category: faq
-faqtype: kyr
+faqtype: arrest-process
 published: true
 title: 'What''s an arrest? When do arrests occur? '
 ---
