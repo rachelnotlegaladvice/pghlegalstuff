@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: kyr
-published: false
+published: true
 title: What are some common charges for those arrested at protests?
 ---
 
