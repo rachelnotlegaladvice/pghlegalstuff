@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: kyr
-published: false
+published: true
 title: NEVER PUT FOOTAGE OF CIVIL DISOBEDIENCE ORARRESTS ON THE INTERNET
 ---
 CIVIL DISOBEDIENCE IS ILLEGAL (that’s why it’s called “**dis**obedience”)
