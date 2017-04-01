@@ -39,10 +39,3 @@ donate:
   template: default
   leadin: >
     Various arrestee support funds. 
-    
-updates:
-  title: Resources
-  menu: Resources
-  template: kyr.html
-  leadin: > 
-    External legal resources.
