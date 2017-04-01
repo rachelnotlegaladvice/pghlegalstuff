@@ -10,7 +10,7 @@ title: Stages of Criminal Representation
 
 **Formal Arraignment**: Your formal arraignment will occur approximately 6-8 weeks after your preliminary hearing and will be held at the Allegheny County Courthouse (436 Grant Street, 5th Floor, Room 519, Pittsburgh, Pennsylvania, 15219). You will be formally presented with the charges against you as well as assigned a Judge and Pre-Trial Conference date. 
 
-**Pre-Trial Conference**: The pre-trial conference occurs approximately 2-4 weeks after your formal arraignment and is held at the Allegheny County Courthouse You will receive a trial date and the judge may rule on preliminary trial motions.
+**Pre-Trial Conference**: The pre-trial conference occurs approximately 2-4 weeks after your formal arraignment and is held at the Allegheny County Courthouse. You will receive a trial date and the judge may rule on preliminary trial motions.
 
 **Trial**: Your criminal trial may last several days and will proceed as a jury trial or non-jury/bench trial. You may also be offered a plea agreement.
 
