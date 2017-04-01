@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: kyr
-published: false
+published: true
 title: What should I do if I am placed under arrest?
 ---
 **Your goal is to avoid incriminating yourself or incriminating yourself further** - not to talk your way out of an arrest by agreeing to waive your rights or inadvertently waving your rights by allowing law enforcement to "just have a quick look around" or by "answering a few routine questions." You cannot talk your way out of an arrest. Remaining silent (including small talk, joking around, "harmless" questions) and refusing warrantless searches (including "quick looks around") is not being uncooperative or unfriendly, it is an exercise of your constitutional rights under both the United States and Pennsylvania Constitutions. Invoking your rights after an arrest cannot be used against you in court as evidence of your guilt; however information gained from waiving your rights can, and will, always be used against you.
