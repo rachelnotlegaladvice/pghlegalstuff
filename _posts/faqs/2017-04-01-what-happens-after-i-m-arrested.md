@@ -1,6 +1,6 @@
 ---
 category: faq
-faqtype: kyr
+faqtype: arrest-process
 published: true
 title: What happens after I'm arrested?
 ---
