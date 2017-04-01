@@ -1,7 +1,7 @@
 ---
 category: resources
-resourcetype: post-release
+resourcetype: jail-support
 published: true
-title: PA Docket Search
-link: 'https://ujsportal.pacourts.us/'
+title: PA Magistrate Docket Search
+link: 'https://ujsportal.pacourts.us/DocketSheets/MDJ.aspx'
 ---
