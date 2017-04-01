@@ -1,6 +1,6 @@
 ---
 category: faq
-faqtype: post-release
+faqtype: arrest-process
 published: true
 title: What if I'm not a citizen and/or undocumented?
 ---
