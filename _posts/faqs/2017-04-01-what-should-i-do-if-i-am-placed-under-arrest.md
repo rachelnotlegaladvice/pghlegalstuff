@@ -1,6 +1,6 @@
 ---
 category: faq
-faqtype: kyr
+faqtype: arrest-process
 published: true
 title: What should I do if I am placed under arrest?
 ---
