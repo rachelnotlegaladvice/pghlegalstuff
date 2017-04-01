@@ -1,7 +1,7 @@
 ---
 category: faq
 faqtype: post-release
-published: false
+published: true
 title: What do my charges mean?
 ---
 **Summary offenses** include trespass, disorderly conduct, and obstruction of highways or other public passageways. These charges can carry a maximum $300 fine or 90 days in jail and are usually handled by a magistrate and settled in one hearing.
@@ -11,4 +11,3 @@ title: What do my charges mean?
 **Felonies** include assault on a officer and riot. These charges can carry a maximum $25,000 fine or 25 years in jail and are handled in criminal court, often involving several court appearances.
 
 Those arrested at protests in Allegheny County are generally charged with a variety of the above-listed offenses which are typically pled down to a summary offense or dropped entirely in exchange for community service. The Pennsylvania Crimes Code is available at http://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/18/18.HTM.
-
